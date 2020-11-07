@@ -26,21 +26,22 @@ ActiveRecord::Schema.define(version: 2020_11_07_003903) do
     t.string "fertilizer"
     t.string "temperature"
     t.string "humidity"
+    t.integer "price_id"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
 
   create_table "orders", force: :cascade do |t|
     t.string "order_number"
-    t.float "total"
+    t.string "total"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
 
   create_table "prices", force: :cascade do |t|
-    t.float "small"
-    t.float "medium"
-    t.float "large"
+    t.string "small"
+    t.string "medium"
+    t.string "large"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

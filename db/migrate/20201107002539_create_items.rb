@@ -11,6 +11,7 @@ class CreateItems < ActiveRecord::Migration[6.0]
       t.string :fertilizer
       t.string :temperature
       t.string :humidity
+      t.integer :price_id
 
       t.timestamps
     end

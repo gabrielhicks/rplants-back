@@ -283,7 +283,8 @@ def seed_items
 ]
 
     plants.each do |plant|
-        Item.create(image: plant[:image], image2: plant[:image2], name: plant[:name], scientific: plant[:scientific], pet_friendly: plant[:pet_friendly], light: plant[:light], water: plant[:water], fertilizer: plant[:fertilizer], temperature: plant[:temperature], humidity: plant[:humidity])
+        item = Item.new(image: plant[:image], image2: plant[:image2], name: plant[:name], scientific: plant[:scientific], pet_friendly: plant[:pet_friendly], light: plant[:light], water: plant[:water], fertilizer: plant[:fertilizer], temperature: plant[:temperature], humidity: plant[:humidity])
+        item.save
     end
 end
 

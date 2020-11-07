@@ -10,10 +10,48 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_11_06_193602) do
+ActiveRecord::Schema.define(version: 2020_11_07_003903) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "items", force: :cascade do |t|
+    t.string "image"
+    t.string "image2"
+    t.string "name"
+    t.string "scientific"
+    t.boolean "pet_friendly"
+    t.string "light"
+    t.string "water"
+    t.string "fertilizer"
+    t.string "temperature"
+    t.string "humidity"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "orders", force: :cascade do |t|
+    t.string "order_number"
+    t.float "total"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "prices", force: :cascade do |t|
+    t.float "small"
+    t.float "medium"
+    t.float "large"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "purchases", force: :cascade do |t|
+    t.integer "item_id"
+    t.integer "user_id"
+    t.integer "order_id"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
 
   create_table "users", force: :cascade do |t|
     t.string "username"

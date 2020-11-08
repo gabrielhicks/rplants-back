@@ -337,7 +337,7 @@ def seed_items
         "longitude": "99.6051"
 }]
 
-    plants.each { |plant| Item.create(image: plant[:image], image2: plant[:image2], name: plant[:name], scientific: plant[:scientific], pet_friendly: plant[:pet_friendly], light: plant[:light], water: plant[:water], fertilizer: plant[:fertilizer], temperature: plant[:temperature], humidity: plant[:humidity], price: @prices.sample)}
+    plants.each { |plant| Item.create(image: plant[:image], image2: plant[:image2], name: plant[:name], scientific: plant[:scientific], pet_friendly: plant[:pet_friendly], light: plant[:light], water: plant[:water], fertilizer: plant[:fertilizer], temperature: plant[:temperature], humidity: plant[:humidity], price: @prices.sample, latitude: plant[:latitude], longitude: plant[:longitude])}
 end
 
 seed_items

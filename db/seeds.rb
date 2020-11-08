@@ -34,7 +34,9 @@ def seed_items
         "water": "Allow the top 1-2 inches of soil to dry out before watering. Avoid using water that has passed through a softener or water containing chlorine or fluorine. Always water African Violet houseplants from the bottom to prevent water getting on the leaves. Remove any excess water that is still in the saucer after 15 minutes.",
         "fertilizer": "Special fertilizer for African Violet plants is available wherever plants are sold. In a pinch, you can use any balanced, soluble, houseplant food diluted to 1/2 the recommended strength. Feed African Violets monthly when the plant is actively growing. Over-fertilizing causes leaf tip burn, poor flower production, leaf cracks, and may even kill an African Violet plant.",
         "temperature": "These plants do well in temperatures of 75°-80°F (23.9°-26.7C) during the day and about 10° cooler at night. Keep African Violet plants away from cold drafts and heating vents.",
-        "humidity": "High humidity is preferable, but African Violets easily adapt to basic household humidity."
+        "humidity": "High humidity is preferable, but African Violets easily adapt to basic household humidity.",
+        "latitude": "-6.3690",
+        "longitude": "34.8888"
     },
     {
         "id": 2,
@@ -47,7 +49,9 @@ def seed_items
         "water": "Over-watering is the main reason sansevieria plants die. Allow the soil to dry out before watering. During the winter, in a low light area, a sansevieria plant may need water only once a month.",
         "fertilizer": "Feed a Sansevieria monthly when the plant is actively growing with a Cactus plant food diluted to 1/2 the recommended strength. Never use a fertilizer that contains nitrates.",
         "temperature": "Sansevierias grow well in temperatures between 60°F (15.5°C) and 85° F (29°C)",
-        "humidity": "Prefer low humidity."
+        "humidity": "Prefer low humidity.",
+        "latitude": "9.0820",
+        "longitude": "8.6753"
     },
     {
         "id": 3,
@@ -61,7 +65,9 @@ def seed_items
         "water": "Over-watering is the main way to kill a ZZ plant. They do not like wet feet, so allow the soil to dry out before watering. Unlike most plants, Zamioculcas are very forgiving, allowing you to over-water a few times before showing signs of serious damage. Yellow leaves are an indication that the plant has been over-watered or severely under-watered. In very warm weather, a ZZ plant may need water every 7-10 days. In cooler weather, the plant may go 2-3 weeks before drying out. When you do water, water well enough so that the water comes out the drip holes in the bottom of the pot.",
         "fertilizer": "Feed monthly when a ZZ plant is actively producing new leaves and every other month when it is not in a growing phase. Use a balanced, liquid plant food diluted to 1/2 the recommended strength. Too much plant food causes yellow leaves; this is called nutrient burn.",
         "temperature": "A Zamioculcas zamiifolia plant prefers temperatures between 60°-80°F (15.6°-26.7°C). Temperatures below 60°F (16.6°C) slow down the plant's growth.",
-        "humidity": "ZZ plants do well in basic household humidity."
+        "humidity": "ZZ plants do well in basic household humidity.",
+        "latitude": "1.9577",
+        "longitude": "37.2972"
     },
     {
         "id": 4,
@@ -75,7 +81,9 @@ def seed_items
         "water": "Water well and then allow the top 50% of the soil to dry out before watering again. Over-watering is the main reason a pothos plant dies. Bright yellow leaves indicate that the soil has gotten too dry before you watered it. New growth and older leaves turn pale yellow and may get black spots on the leaves when a pothos is over- watered.",
         "fertilizer": "Fertilize every two weeks in the spring and summer when the plant is actively growing and monthly in the fall and winter. Use a well-balanced plant food diluted to ½ the recommended strength.",
         "temperature": "Pothos plants do well in temperatures between 55° and 80°F (12.8°-26.7°C). If temperatures drop below 45°F (7.2°C), a pothos plant stops growing and the leaves turn black.",
-        "humidity": "Basic household humidity"
+        "humidity": "Basic household humidity",
+        "latitude": "-9.6457",
+        "longitude": "160.1562"
     },
     {
         "id": 5,
@@ -89,7 +97,9 @@ def seed_items
         "water": "Water well until the water drains out the drip holes in the bottom of the pot. Allow the top 25-30% of the soil to dry out before watering again. Keep the soil damp but never soggy. Water droplets or perspiration on the leaves indicate over-watering; brown leaf edges indicate under watering.",
         "fertilizer": "Feed every two weeks when the plant is actively growing with a balanced plant food diluted to 1/2 the recommended strength.",
         "temperature": "This plant prefers warm temperatures and doesn't do well in temperatures below 50°F (10°C) .",
-        "humidity": "Split leaf philodendrons grow better in high humidity, but adapt to household humidity."
+        "humidity": "Split leaf philodendrons grow better in high humidity, but adapt to household humidity.",
+        "latitude": "23.00",
+        "longitude": "-102.00"
     },
     {
         "id": 6,
@@ -103,7 +113,9 @@ def seed_items
         "water": "The leaves of calathea plants are easily damaged by the quality of the water you use. Hard water or soft water, water with a high chemical content (fluorine, chlorine, or salt), water that has passed through a softener, or water of poor quality causes leaf tip burn. Use distilled water, rain water, or allow your tap water to sit out over night before using it. Calathea plants like moist but not soggy, soil at all times; never let the plant sit in water. Allow the top 2-3” of the soil to dry out before watering.",
         "fertilizer": "Fertilize monthly in the spring, summer, and fall with a basic houseplant food diluted to ½ the recommended strength. Never feed a calathea or any houseplant, if it is not actively growing.",
         "temperature": "Calathea plants prefer temperatures between 65°-80°F (18.3°-27.7°C) , and don't do well in cold drafts or temperatures below 55°-60°F (12.8°-15.6°C). The leaves of a calathea plant curl when the temperature is too warm.",
-        "humidity": "Calathea plants need high humidity and when the air is too dry they develop brown leaf edges. Increase the humidity by placing the plant on a tray of wet pebbles (be sure the container is on the pebbles and not in the water), setting a humidifier near-by, or by grouping plants together to create a mini-greenhouse effect."
+        "humidity": "Calathea plants need high humidity and when the air is too dry they develop brown leaf edges. Increase the humidity by placing the plant on a tray of wet pebbles (be sure the container is on the pebbles and not in the water), setting a humidifier near-by, or by grouping plants together to create a mini-greenhouse effect.",
+        "latitude": "-14.2350",
+        "longitude": "-51.9253"
     },
     {
         "id": 7,
@@ -117,7 +129,9 @@ def seed_items
         "water": "A Stromanthe likes to be kept barely moist at all times. Be careful not to over-water or the roots rot and the plant dies. In winter, allow the soil of a Stromanthe to dry out a little more, but never completely.",
         "fertilizer": "Feed every two weeks when the plant is actively growing, this is usually from early spring to the end of fall. Use a balanced fertilizer diluted to 1/2 the recommended strength.",
         "temperature": "Avoid placing a Stromanthe in a cold or hot draft, otherwise basic household temperatures are fine.",
-        "humidity": "A Stromanthe needs high humidity to keep its beautiful leaves looking good. If your house is dry, place a Stromanthe on a wet pebble tray. Be sure the plant is sitting on the pebbles and not in the water. Stromanthe plant leaves turn brown and become crisp when the air is too dry."
+        "humidity": "A Stromanthe needs high humidity to keep its beautiful leaves looking good. If your house is dry, place a Stromanthe on a wet pebble tray. Be sure the plant is sitting on the pebbles and not in the water. Stromanthe plant leaves turn brown and become crisp when the air is too dry.",
+        "latitude": "-3.4653",
+        "longitude": "-62.2159"
     },
     {
         "id": 8,
@@ -131,7 +145,9 @@ def seed_items
         "water": "Water well and then allow the top 2-3in of soil to dry out before watering again. Dieffenbachia plants do best when watered on a regular schedule. If the soil gets too dry, bottom leaves may turn yellow. If the plant is over- watered, stems rot and get mushy and bottom leaves die.",
         "fertilizer": "Fertilize only when the plant is actively producing new leaves. Most dieffenbachias need to be fed every two weeks in the summer and once a month in the spring and fall. Never fertilize in the winter. Excess plant food causes browning around the edges of the leaves.",
         "temperature": "Dieffenbachia plants prefer temperatures above 60°F (15.6°C). Lower leaves turn yellow when exposed to cold drafts from doors, windows, or air conditioners.",
-        "humidity": "High humidity is a plus, but a dieffenbachia still does well in basic household humidity."
+        "humidity": "High humidity is a plus, but a dieffenbachia still does well in basic household humidity.",
+        "latitude": "21.4691",
+        "longitude": "78.6569"
     },
     {
         "id": 9,
@@ -145,7 +161,9 @@ def seed_items
         "water": "Water every 1-2 weeks, allowing soil to dry out between waterings. Expect to water more often in brighter light and less often in lower light. ",
         "fertilizer": "When it comes to fertilizing Pilea peperomioides, don’t overdo it. Unfortunately, most houseplants are killed with kindness. You really only need to fertilize Chinese money plants once a month. And only feed the plant when it is in a state of active growth.",
         "temperature": "55°F-85°F (13°C-30°C). It’s best not to let it go below 50°F (10°C).",
-        "humidity": "Normal room humidity is fine."
+        "humidity": "Normal room humidity is fine.",
+        "latitude": "26.0000",
+        "longitude": "99.8333"
     },
     {
         "id": 10,
@@ -159,7 +177,9 @@ def seed_items
         "water": "Rosary vines like to dry out between watering in order to avoid root rot. Ceropegia woodii require more water when they’re actively growing and when they are in a brightly lit area of your home. This indoor plant’s growth dramatically slows down in the winter, so cut back on watering during the colder months.",
         "fertilizer": "Feel free to fertilize your Chain of Hearts when it’s actively growing. You can use a wide range of fertilizers, like fish or seaweed emulsion, compost-like worm castings, or a complete liquid fertilizer. We recommend diluting all liquid fertilizers to ½ strength.",
         "temperature": "Rosary vines can handle temperatures as low as 40℉, but we recommend not letting the temperature fall below 55℉ for this and all of your indoor plants. When temperatures rise over 85℉, the indoor vines might need to be watered more often.",
-        "humidity": "Average household humidity is fine for Ceropegia, but like most other tropical plants, they’ll perform better with humidity levels at about sixty percent."
+        "humidity": "Average household humidity is fine for Ceropegia, but like most other tropical plants, they’ll perform better with humidity levels at about sixty percent.",
+        "latitude": "-19.0154",
+        "longitude": "29.1549"
     },
     {
         "id": 11,
@@ -173,7 +193,9 @@ def seed_items
         "water": "String of Pearls are very sensitive to overwatering, so make sure that you give them just enough water. Recommended amount is once every two weeks. One tip to make sure you don't overwater your plant is to check if the soil is half an inch (1.2cm) dry before the next water. During winter time, cut back watering to once per month. ",
         "fertilizer": "Succulents usually don’t need a lot of fertilizer and too much fertilizer can kill Pearls Succulent too. During growth time, they might get fertilized once every 2 or 4 weeks in spring and mid-summer. And no fertilizer is needed for fall and winter. And the fertilizer should be weakened to not overwhelm the plant.",
         "temperature": "String of Pearls succulent should be kept at average indoor temperature of 70° - 80° degrees Fahrenheit. During winter, keep the plant at cool temperature - around 55° – 60° degrees Fahrenheit.",
-        "humidity": "Average room humidity (about 40% relative humidity) or lower. Dry air won't hurt this succulent."
+        "humidity": "Average room humidity (about 40% relative humidity) or lower. Dry air won't hurt this succulent.",
+        "latitude": "19.5830",
+        "longitude": "20.5170"
     },
     {
         "id": 12,
@@ -187,7 +209,9 @@ def seed_items
         "water": "Allow the top 25-30% of the soil to dry out before watering a schefflera. Green leaves drop off and new growth turns black when schefflera plants are over-watered. Yellow leaves indicate a schefflera needs more water.",
         "fertilizer": "Fertilize a schefflera monthly in the spring and summer when it is actively growing with a basic houseplant food diluted to 1/2 the recommended strength. During the fall and winter feed schefflera plants every other month but only if the plant is producing new leaves.",
         "temperature": "Schefflera plants prefer temperatures between 65°-80°F ( 18.3°-26.7°C). They do not do well in temperatures below 55°F (12.8°C). Keep scheffleras away from cold drafts and heaters.",
-        "humidity": "Basic household humidity or higher is fine for Schefflera houseplants. If the air is very dry, place your Schefflera Plant on a tray of pebbles and water. Be sure the plant is sitting on the pebbles and not in the water."
+        "humidity": "Basic household humidity or higher is fine for Schefflera houseplants. If the air is very dry, place your Schefflera Plant on a tray of pebbles and water. Be sure the plant is sitting on the pebbles and not in the water.",
+        "latitude": "-25.2744",
+        "longitude": "133.7751"
     },
     {
         "id": 13,
@@ -201,7 +225,9 @@ def seed_items
         "water": "Most English Ivy plants die because they are over-watered. Allow the top 25-30% of the soil to dry out before watering. Crispy leaves indicate over-watering not under-watering.",
         "fertilizer": "Feed every two weeks in the spring and summer with a balanced plant food diluted to 1/2 the recommended strength. Fertilize monthly in the fall and winter. Never feed an English Ivy if the temperature is extremely hot or cold, if the soil is very dry, or if the ivy plant is not producing new leaves.",
         "temperature": "English Ivy plants grow well in temperatures between 55°- 75°F (12.8°-23.9° C) during the daytime and about 10° cooler at night (45°-65°F/ 7.2°-12.8°C). They do grow better when the temperature is consistent.",
-        "humidity": "Medium to high humidity helps maintain the appearance of the leaves."
+        "humidity": "Medium to high humidity helps maintain the appearance of the leaves.",
+        "latitude": "54.607868",
+        "longitude": "-5.926437"
     },
     {
         "id": 14,
@@ -215,7 +241,9 @@ def seed_items
         "water": "Water well and then allow the top 2-3in of soil to dry out before watering again. If the soil of a Wandering Jew plant stays too dry and the plant is in bright light, the leaves become stunted and lose color. Over watering causes root rot.",
         "fertilizer": "Feed monthly when a Wandering Jew plant is producing new growth with a water-soluble houseplant food diluted to 1/2 the recommended strength. Using a plant food high in nitrogen helps a Wandering Jew plant produce more colorful leaves. Over- fertilizing is another reason why the bright colors in the leaves start to fade.",
         "temperature": "A Wandering Jew plant grows well in temperatures between 60°- 80°F (15.6°- 26.7°C).",
-        "humidity": "Average to higher household humidity is best. If the air is too dry, the leaf tips of a Wandering Jew plant turn brown. Place a Wandering Jew plant on a tray of wet pebbles to increase the humidity around it. Be sure the plant is sitting on the pebbles and not in the water."
+        "humidity": "Average to higher household humidity is best. If the air is too dry, the leaf tips of a Wandering Jew plant turn brown. Place a Wandering Jew plant on a tray of wet pebbles to increase the humidity around it. Be sure the plant is sitting on the pebbles and not in the water.",
+        "latitude": "23.6345",
+        "longitude": "-102.5528"
     },
     {
         "id": 15,
@@ -229,7 +257,9 @@ def seed_items
         "water": "Allow the top 1/3 of the soil of a bamboo palm to dry out before watering. These plants like barely moist but never soggy soil. Never allow a bamboo palm to sit in the excess water that drains from the pot. Do not use water that has passed through a softener because the high salt content damages the leaves. Leaf tips look pale in color and green leaves fall off when a bamboo palm is over-watered. New growth and leaf tips turn brown when a bamboo palm is under-watered. ",
         "fertilizer": "Feed a bamboo palm monthly in the spring and summer with a fertilizer high in nitrogen diluted to 1/2 the recommended strength. Do not fertilize a bamboo palm if it is not actively growing or if the soil is very dry.",
         "temperature": "A bamboo palm does well in temperatures between 65°-80°F (18.3°-26.7°C).",
-        "humidity": "All palms, including bamboo palms, like high humidity but still do well in basic household humidity."
+        "humidity": "All palms, including bamboo palms, like high humidity but still do well in basic household humidity.",
+        "latitude": "15.7835",
+        "longitude": "-90.2308"
     },
     {
         "id": 16,
@@ -242,7 +272,9 @@ def seed_items
         "water": "Water a Coffee Plant when the top 1-2in of soil has dried out. These plants are not drought resistant and can suffer permanent damage if the soil totally dries out. Leaves fall off if the plant is over or under watered.",
         "fertilizer": "A Coffee Plant really only needs to be fed twice a year, once in March and again in late summer. Use a well balanced plant food (10-10-10) or fish emulsion",
         "temperature": "These plants prefer constant temperatures between 60 degrees and 75 degrees. Coffee Plants can suffer damage if the temperature goes below 42 degrees or above 78 degrees.",
-        "humidity": "A Coffee Plant needs high humidity so consider placing a small humidifier near it or setting it on a wet pebble tray."
+        "humidity": "A Coffee Plant needs high humidity so consider placing a small humidifier near it or setting it on a wet pebble tray.",
+        "latitude": "9.1450",
+        "longitude": "40.4897"
     },
     {
         "id": 17,
@@ -255,7 +287,9 @@ def seed_items
         "water": "A Fiddle Leaf Fig requires less water than other ficus trees. Allow the top 50% of the soil to dry out and the leaves to become soft and flexible before watering. Keep the leaves dry and water off of the large fiddle shaped leaves to prevent mold. Too much water and water on the leaves can also cause ugly brown spots on the leaves.",
         "fertilizer": "Fertilize monthly in the spring and summer with a balanced plant food diluted to 1/2 the recommended strength. Too much fertilizer when the plant is not actively growing causes leaf tip burn.",
         "temperature": "Fiddle Leaf Fig trees do well in temperatures between 60°-80°F (15.6°- 26.7°C). Keep all types of ficus trees away from air conditioners, cold drafts, and heating vents. Intense cold or heat causes leaf drop.",
-        "humidity": "This plant does well in normal household humidity through it prefers higher humidity."
+        "humidity": "This plant does well in normal household humidity through it prefers higher humidity.",
+        "latitude": "8.4606",
+        "longitude": "-11.7799"
     },
     {
         "id": 18,
@@ -268,7 +302,9 @@ def seed_items
         "water": "During the spring and summer, when a Hibiscus is actively growing, keep the soil moist but never soggy. In the fall and winter, allow the top 2” to dry out before watering.",
         "fertilizer": "Hibiscus need a great deal of plant food. Fertilize every two weeks in the spring and summer and monthly the rest of the year with a basic houseplant food diluted to 1/2 the recommended strength.",
         "temperature": "Hibiscus Plants do well in temperatures between 65°-85°F (18.3°-29.4°C). If the temperature goes below 40°F (4.4°C) for a prolonged period of time, the new growth is ruined.",
-        "humidity": "Hibiscus grow better and produce more flowers in high humidity."
+        "humidity": "Hibiscus grow better and produce more flowers in high humidity.",
+        "latitude": "26.1202",
+        "longitude": "127.7025"
     },
     {
         "id": 19,
@@ -281,7 +317,9 @@ def seed_items
         "water": "This plant requires a great deal of water. Since these plants are usually purchased in small pots, be sure to check the soil every few days. Allow the top 1” (2.5cm) of soil to dry out before watering. During the winter, when a miniature rose bush plant is resting, keep the soil barely moist. Be careful not to get water on the leaves; wet leaves often cause a fungus called Black Spot to develop.",
         "fertilizer": "Feed every two weeks in the spring and summer when the plant is actively growing. Use a fertilizer that is high in phosphorous (5-10-5) at ½ the recommended strength.",
         "temperature": "Miniature rose bush plants do well in temperatures between 60°-75°F (16°-24°C). These plants are very susceptible to frost damage.",
-        "humidity": "Moderate to high humidity helps the plant to grow well. If your home is dry, especially in the winter, place a miniature rose bush plant on a tray of wet pebbles. Be sure the plant is sitting on the pebbles and not in the water."
+        "humidity": "Moderate to high humidity helps the plant to grow well. If your home is dry, especially in the winter, place a miniature rose bush plant on a tray of wet pebbles. Be sure the plant is sitting on the pebbles and not in the water.",
+        "latitude": "41.8781",
+        "longitude": "-87.6298"
     },
     {
         "id": 20,
@@ -294,9 +332,10 @@ def seed_items
         "water": "Poinsettia Plants are members of the Euphorbia family and should not be over- watered. Always allow the top 50% of the soil to dry out before watering to prevent root rot. Over-watering a Poinsettia Plant causes green leaves to fall off, leaving bare stems topped by a few colorful bracts. Severe under-watering, in which a Poinsettia Plant badly droops, results in both green and colored leaves dropping off",
         "fertilizer": "Fertilize a Poinsettia Plant monthly in the spring and summer after the plant has finished blooming.",
         "temperature": "Temperature is a very important factor in Poinsettia Plant care. Poinsettia Plants last longer and look better when the temperature is between 65-70 degrees during the day and around 60 degrees at night. Temperatures that are too hot or too cold damage Poinsettia Plant leaves and may cause leaf drop.",
-        "humidity": "A Poinsettia Plant does well in basic household humidity."
-    }
-]
+        "humidity": "A Poinsettia Plant does well in basic household humidity.",
+        "latitude": "18.5565",
+        "longitude": "99.6051"
+}]
 
     plants.each { |plant| Item.create(image: plant[:image], image2: plant[:image2], name: plant[:name], scientific: plant[:scientific], pet_friendly: plant[:pet_friendly], light: plant[:light], water: plant[:water], fertilizer: plant[:fertilizer], temperature: plant[:temperature], humidity: plant[:humidity], price: @prices.sample)}
 end

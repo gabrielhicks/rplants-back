@@ -27,6 +27,8 @@ ActiveRecord::Schema.define(version: 2020_11_07_003903) do
     t.string "temperature"
     t.string "humidity"
     t.integer "price_id"
+    t.string "latitude"
+    t.string "longitude"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

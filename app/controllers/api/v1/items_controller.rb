@@ -4,4 +4,16 @@ class Api::V1::ItemsController < ApplicationController
         plants = Item.all
         render json: plants, include: :price, except: [:updated_at, :created_at]
     end
+
+    def create
+        plant = Item.create(item_params)
+
+        render json: plant
+    end
+
+    private
+
+    def item_params
+        params.require(:item).permit!
+    end
 end

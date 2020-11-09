@@ -17,7 +17,10 @@ class Api::V1::UsersController < ApplicationController
 
     def show
         user = User.find(params[:id])
-        render json: user, only: [:name, :email], include: [:purchases, :orders]
+        userOrders = user.unique_orders
+        # render json: user.as_json(only: {:name, :email}, include: {purchases: {include: :item}, :orders})
+        render json: user, only: [:name, :email], include: [:orders]
+
     end
 
     private

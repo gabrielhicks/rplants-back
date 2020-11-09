@@ -36,6 +36,7 @@ ActiveRecord::Schema.define(version: 2020_11_07_003903) do
   create_table "orders", force: :cascade do |t|
     t.string "order_number"
     t.string "total"
+    t.integer "user_id"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
@@ -50,7 +51,6 @@ ActiveRecord::Schema.define(version: 2020_11_07_003903) do
 
   create_table "purchases", force: :cascade do |t|
     t.integer "item_id"
-    t.integer "user_id"
     t.integer "order_id"
     t.string "price"
     t.integer "quantity"

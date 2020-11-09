@@ -4,4 +4,8 @@ class User < ApplicationRecord
     has_many :purchases
     has_many :items, through: :purchases
     has_many :orders, through: :purchases
+
+    def consolidatedOrders
+        self.orders.uniq
+    end
 end

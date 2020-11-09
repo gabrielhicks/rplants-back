@@ -52,6 +52,9 @@ ActiveRecord::Schema.define(version: 2020_11_07_003903) do
     t.integer "item_id"
     t.integer "user_id"
     t.integer "order_id"
+    t.string "price"
+    t.integer "quantity"
+    t.string "size"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

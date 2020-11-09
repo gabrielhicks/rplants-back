@@ -3,7 +3,5 @@ class User < ApplicationRecord
     validates :username, uniqueness: { case_sensitive: false }
     has_many :orders
 
-    def unique_orders
-        self.orders.uniq
-    end
+    
 end

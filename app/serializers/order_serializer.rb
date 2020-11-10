@@ -1,12 +1,20 @@
 class OrderSerializer < ApplicationSerializer
-  attributes :id, :total, :created_at, :order_number
-  has_one :user
-  has_many :purchases
-  # accepts_nested_attributes_for :purchases
+  attributes :id, :total, :created_at, :order_number, :purchases
+  # has_one :user
+  # has_many :purchases
+  # 
 
   # def purchases
-  #   ActiveModel::SerializableResource.new(object.purchases, each_serializer: PurchaseSerializer)
+  #   self.object.purchases.map do |pur|
+  #     {quantity: pur.quantity, size: pur.size}
+  #   end
   # end
 
+  def purchases
+    ActiveModel::SerializableResource.new(object.purchases,  each_serializer: PurchaseSerializer)
+  end
 
+  
+
+  
 end
